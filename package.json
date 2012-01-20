@@ -1,0 +1,17 @@
+{
+  "author": "DoubleSpout <snoopyxdy@163.com> (http://snoopyxdy.blog.163.com)",
+  "name": "AsyncProxy",
+  "description": "asynchronous code helper.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DoubleSpout/node.js---AsyncProxy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DoubleSpout/node.js---AsyncProxy.git"
+  },
+  "main": "AsyncProxy.js",
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
