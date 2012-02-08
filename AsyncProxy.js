@@ -23,8 +23,8 @@ AsyncProxy.prototype.rec = function(order){ //当异步返回入口
 AsyncProxy.prototype.recfunc = function(callback){
 	var ap = this;
 	return function(order){
-		callback(function(){
-			ap.rec(order);
+		return callback(function(){
+			return ap.rec(order);
 		});		
 	}	
 };
