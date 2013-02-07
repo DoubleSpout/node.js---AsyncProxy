@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/DoubleSpout/node.js---AsyncProxy.png)](http://travis-ci.org/DoubleSpout/node.js---AsyncProxy)
 #AsyncProxy.js - 异步代码管理模块，asynchronous code helper
 
 ##举个例子：For example
